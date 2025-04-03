@@ -5,6 +5,7 @@
         <a
           i-carbon-logo-github icon-btn
           rel="noreferrer"
+          href="https://github.com/suqi776/my-vite-read"
           target="_blank"
           title="GitHub"
         />
